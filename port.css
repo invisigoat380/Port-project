@@ -1,6 +1,6 @@
 h1{ 
     position: relative;
-    background-color: rgb(19, 19, 54);
+    background-color: rgb(0, 0, 0);
     color: rgb(228, 221, 38);
     top: -43px;
     box-sizing: border-box;
@@ -8,14 +8,14 @@ h1{
     width: 100%;
     z-index: auto;
     font-size: 66px;
-    font-style: italic;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
 }
 body{
     background-color: rgb(0, 0, 0);
+    background-image: url(https://cdn.wallpapersafari.com/45/49/XD9whF.jpg);
 }
 section{
-
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
     border-color: aqua;
     border-style: solid;
@@ -24,4 +24,9 @@ section{
     max-width: 180px;
     padding-left: 20pt;
     padding-right: 5px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+    
 }
+
